@@ -1,2 +1,2 @@
-# pagina-declaraci-n
+# pagina-declaracion
 Es una pagina para una declaración
